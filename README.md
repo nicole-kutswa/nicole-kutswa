@@ -1,4 +1,4 @@
-![](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)
+<!---![](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)--->
 # NICOLE KUTSWA
 ### DATA ANALYST | DATA SCIENTIST | 
 
