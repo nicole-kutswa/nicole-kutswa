@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm Nicole Kutswa, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicole-kutswa-1612&theme=dark)](https://github.com/nicole-kutswa-1612)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicole-kutswa&theme=aura_dark)
 
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&theme=dark&hide_border=true&repo=Data-Science-Projects)](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&theme=dark&hide_border=true&repo=IBM-AI-Engineering)](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering)
