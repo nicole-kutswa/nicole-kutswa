@@ -29,8 +29,12 @@ Welcome to my GitHub profile! I'm Nicole Kutswa, a Data Science and Data Enginee
 ## GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=nicole-kutswa&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## Portfolio Website
-[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://nicole-kutswa.github.io/)
+<h2>Portfolio Website</h2>
+
+<a href="https://nicole-kutswa.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue" alt="Portfolio Badge">
+</a>
+
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolekutswa@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-kutswa/)
