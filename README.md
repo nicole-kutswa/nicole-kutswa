@@ -2,7 +2,7 @@
 # NICOLE KUTSWA
 ### DATA ANALYST | DATA SCIENTIST | 
 
-Welcome to my GitHub profile! I'm Nicole Kutswa, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
+Welcome to my GitHub profile! I'm Nicole Kutswa, a Data Science and Data Engineering enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicole-kutswa&theme=aura_dark)
 
