@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm Nicole Kutswa, a Data Science enthusiast with 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&theme=dark&hide_border=true&repo=Data-Science-Projects)](https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SUKHMAN-SINGH-1612&theme=dark&hide_border=true&repo=IBM-AI-Engineering)](https://github.com/SUKHMAN-SINGH-1612/IBM-AI-Engineering)
 
 ## IDE
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/nicole-kutswa)
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)](https://github.com/nicole-kutswa)
 
 ## Skills
 - ### Languages
