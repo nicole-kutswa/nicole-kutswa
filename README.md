@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Nicole Kutswa, a Data Science and Data Enginee
 
 ## Top Repositories
 [![Project - Churn Analysis](https://img.shields.io/badge/Project-Churn_Analysis-blue?style=for-the-badge&logo=python)](https://github.com/nicole-kutswa/ALX-Capstone-1-Customer-Churn-Analysis)
-[![Project - Loan Calculator](https://img.shields.io/badge/Project-Loan_Calculator-green?style=for-the-badge&logo=github)](https://github.com/nicole-kutswa/LoanCalculatorSystem)
+[![Project - Loan Calculator](https://img.shields.io/badge/Project-Loan_Calculator-green?style=for-the-badge&logo=java)](https://github.com/nicole-kutswa/LoanCalculatorSystem)
 
 ## IDE
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
