@@ -1,6 +1,6 @@
 <!---![](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png)--->
 # NICOLE KUTSWA
-### DATA ANALYST | DATA SCIENTIST | 
+### DATA ANALYST | DATA SCIENTIST | DATA ENGINEER
 
 Welcome to my GitHub profile! I'm Nicole Kutswa, a Data Science and Data Engineering enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
