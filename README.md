@@ -7,7 +7,7 @@
 
 ### DATA ANALYST | DATA SCIENTIST | DATA ENGINEER
 
-I'm a Data Analyst, Data Scientist, and aspiring Data Engineer passionate about transforming raw data into actionable insights.
+I'm a Data Analyst, Data Scientist, and Data Engineer passionate about transforming raw data into actionable insights.
 My repositories showcase projects in machine learning, analytics, data visualization, SQL, and software development, demonstrating practical solutions to real-world business problems.
 
 
