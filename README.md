@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm Nicole Kutswa, a Data Science and Data Enginee
 
 <h2>Portfolio Website</h2>
 
-<a href="https:///" target="_blank">
+<a href="https://nicole-kutswa.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue" alt="Portfolio Badge">
 </a>
 
