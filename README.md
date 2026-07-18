@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue" alt="Portfolio Badge">
 </a>
 
-### DATA ANALYST | DATA SCIENTIST | DATA ENGINEER
+### DATA ANALYST | MACHINE LEARNING PRACTITIONER| SOC ANALYST
 
 I'm a Data Analyst, Data Scientist, and Data Engineer passionate about transforming raw data into actionable insights.
 My repositories showcase projects in machine learning, analytics, data visualization, SQL, and software development, demonstrating practical solutions to real-world business problems.
